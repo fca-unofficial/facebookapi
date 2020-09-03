@@ -1,0 +1,31 @@
+{
+  "name": "facebookapi",
+  "version": "0.0.1",
+  "description": "A package designed to take advantage of your Facebook account.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fca-unofficial/facebookapi.git"
+  },
+  "keywords": [
+    "facebook",
+    "chat",
+    "api",
+    "fca-unofficial"
+  ],
+  "author": "UIRI",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fca-unofficial/facebookapi/issues"
+  },
+  "homepage": "https://github.com/fca-unofficial/facebookapi#readme",
+  "devDependencies": {
+    "eslint": "^7.8.1"
+  },
+  "dependencies": {
+    "fetch-h2": "^2.5.0"
+  }
+}
